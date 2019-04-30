@@ -8,7 +8,7 @@ public class Looping {
 	public static void call()
 	{
 		System.out.println("Looping completed");
-	}//Commiting code to repo
+	}//Commiting code to repository
 	public static void add()
 	{
 		int a;
