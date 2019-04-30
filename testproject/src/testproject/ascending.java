@@ -10,7 +10,7 @@ public class ascending {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// added comment by me
+		// added comments to program by me
 		Scanner in = new Scanner(System.in);
 		
 		// Getting numbers from user
